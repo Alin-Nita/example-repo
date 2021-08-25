@@ -18,4 +18,10 @@ git push origin main
 
 git status -> tells you what is going on
 
+---
+## Branches
+git checkout -b NAME OF THE BRANCH -> CREATE AND TAKE YOU TO THAT BRANCH
 
+git checkout ->take you to a branch
+git add & commit
+git push origin NAME-OF-THE-BRANCH
